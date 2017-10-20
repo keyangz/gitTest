@@ -1,0 +1,6 @@
+This is a test of git branching
+Animals:
+Fox
+Dog
+Cat
+Pig
