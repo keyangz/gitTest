@@ -1,7 +1,8 @@
 hello, this is a test of how to use Github.
 Items:
 Book
-Pencil
+Pencils
+Pens
 Desk
 Table
 Car
