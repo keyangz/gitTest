@@ -1,9 +1,10 @@
 hello, this is a test of how to use Github.
 Items:
 Book
-Pencil
 eraser
 earth
+Pencils
+Pens
 Desk
 Table
 Car
