@@ -2,6 +2,8 @@ hello, this is a test of how to use Github.
 Items:
 Book
 Pencil
+eraser
+earth
 Desk
 Table
 Car
